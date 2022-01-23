@@ -1,7 +1,16 @@
 # kc-house-dataset
 ### In this dataset we analyse the data on kc houses sold from 2014 to 2015
 
-## Source : - Kaggle
+## Source : -
+Kaggle
+
+### *The Imports*
+```
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
 
 ### Project Setup:
 To clone this repository you need to have Python compiler installed on your system alongside pandas and seaborn libraries. I would rather suggest that you download jupyter notebook if you've not already.
